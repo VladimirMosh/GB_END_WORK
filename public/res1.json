@@ -1,0 +1,132 @@
+{
+    "basic_info": {
+      "description_header": "",
+      "description": "Студия Mosh Studio объединяет специалистов занимающихся разработкой и продвижением веб-ресурсов. Создание высококачественного посещаемого и прибыльного сайта, требует глубоких знаний в различных областях. Компания предоставляет услуги по созданию развитию наполнения и продвижения сайтов. Наши клиенты могут рассчитывать на богатый опыт специалистов и профессиональное обслуживание по доступным ценам.",
+      "section_name": {
+        "about": "О нас",
+        "projects": "Наши проекты",
+        "skills": "Навыки",
+        "experience": "Опыт"
+      }
+    },
+    "projects": [
+      {
+        "title": "SAGE Gaming",
+        "startDate": "2011",
+        "description": "Сайт разработали для Российской киберспортивной команды. ",
+        "images": [
+          "images/2.jpg",
+          "images/22.png"
+        ],
+        "url": "",
+        "technologies": [
+        
+        ]
+      },
+      {
+        "title": "ООО Торнадо",
+        "startDate": "2012",
+        "description": "Сайт на CMS Joomla комерческой организации ООО Торнадо.",
+        "images": [
+          "images/3.png"
+          
+        ],
+        "url": "https://www.ooo-tornado.ru/",
+        "technologies": [
+         
+        ]
+      },
+      {
+        "title": "BACK2BACK",
+        "startDate": "2010",
+        "description": "Совместная работа нашей студии и Нидерландского художника для киберспортивной организации",
+        "images": [
+          "images/5.jpg"
+        ],
+        
+        "technologies": [
+         
+        ]
+      },
+      {
+        "title": "логотип Топ Газ",
+        "startDate": "2017",
+        "description": "Разработка дизайна логотипа для комерческой организации ",
+        "images": [
+          "images/6.jpg"
+        ],
+        "url": "",
+        "technologies": [
+         
+        ]
+      },
+      {
+        "title": "Aim-project",
+        "startDate": "2012",
+        "description": "Разработка и ведение сайта для киберспортивной команды",
+        "images": [
+          "images/1.png",
+          "images/12.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          
+        ]
+      },
+      {
+        "title": "BuffGame",
+        "startDate": "2012",
+        "description": "Разработка дизайна логотипа для киберспортивной команды",
+        "images": [
+          "images/4.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          
+        ]
+      }
+
+    ],
+    "experience": [
+      {
+        "company": "Старт комерческого проекта. Сайт по продаже газовых баллонов",
+        "title": "TopGas.ru",
+        "mainTech": [
+          "Июль 2017"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "Регистрация доменного имени и начало разработки проекта",
+        "title": "Sage-gaming.ru ",
+        "mainTech": [
+          "Февраль 2011"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "Первый совместный проект",
+        "title": "BACK2BACK",
+        "mainTech": [
+          "Сентябрь 2010"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "",
+        "title": "Создание веб-студии",
+        "mainTech": [
+          "Август 2010"
+        ],
+        "technologies": [
+          
+        ]
+      }
+    ]
+  }

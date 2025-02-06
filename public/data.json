@@ -1,0 +1,43 @@
+{
+    "basic_info": {
+      "name": "Веб-студия создания сайтов",
+      "titles": [ "Front-end разработка",  "Мобильная разработка", "SEO оптимизация и комплексный веб-маркетинг" , "Анализ действующих сайтов" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/VladimirMosh",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }
